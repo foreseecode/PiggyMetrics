@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ${REGISTRY_NAME}
+    name: registry
   cloud:
     config:
       uri: ${CONFIG_SERVER_URL}
